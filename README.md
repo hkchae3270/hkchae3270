@@ -32,9 +32,7 @@
   <br/>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hkchae3270&theme=tokyonight)](https://git.io/streak-stats)
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkchae3270&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=hkchae3270&theme=tokyonight&show_icons=true" width="42%" />
 </a>
